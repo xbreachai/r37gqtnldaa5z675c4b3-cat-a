@@ -1,0 +1,7 @@
+name: sandbox-a
+version: 1.0.0
+summary: benign PoC MARKER-CATALOG-A
+runer: ARM
+runtimeVersion: "1.0"
+runner: ARM
+templatePath: main.json
